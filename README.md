@@ -19,7 +19,7 @@ Graduando em Sistemas de Informação pela FEPI, com foco em fundamentos de prog
 ## 📬 Contact me
 
 <p align="center">
-  <a href="lucianoborges04@hotmail.com">
+  <a href="lluborges004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/luciano-borges-077b122b5/">
