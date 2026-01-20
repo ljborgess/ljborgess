@@ -1,7 +1,7 @@
 
  
 
-<h1 align="center">Luciano Borges</h1>
+<h1 align="center">Luciano Borges A.A Junqueira</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻%20Analista%20e%20Desenvolvedor%20de%20Software-0A66C2?style=for-the-badge" />
