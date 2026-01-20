@@ -1,10 +1,5 @@
-<p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/160360640?v=4"
-    width="170"
-    style="border-radius: 50%"
-  />
-</p>
+
+ 
 
 <h1 align="center">Luciano Borges</h1>
 
