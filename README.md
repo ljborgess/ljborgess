@@ -8,7 +8,10 @@
 
 <h1 align="center">Luciano Borges</h1>
 
-<h3 align="center">Analista e Desenvolvedor de Software</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Analista%20e%20Desenvolvedor%20de%20Software-0A66C2?style=for-the-badge" />
+</p>
+
 
 <p align="center">
 Graduando em Sistemas de Informação pela FEPI, com foco em fundamentos de programação, boas práticas e crescimento profissional.
