@@ -32,7 +32,6 @@ Gosto de entender **como as coisas funcionam por baixo do capô**, porque tecnol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elementor/elementor-original.svg" width="48" />
 </p>
 
 <p align="center">
