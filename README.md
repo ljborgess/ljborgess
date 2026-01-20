@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://avatars.githubusercontent.com/u/SEU_ID_AQUI"
+    src="https://avatars.githubusercontent.com/u/160360640?v=4"
     width="180"
     style="border-radius: 50%"
   />
@@ -11,42 +11,33 @@
 <h3 align="center">Analista e Desenvolvedor de Software</h3>
 
 <p align="center">
-Sou analista e desenvolvedor de software em início de carreira, focado em aprender fundamentos sólidos, boas práticas e crescimento profissional.
+Graduando em Sistemas de Informação pela FEPI, com foco em fundamentos de programação, boas práticas e crescimento profissional.
 </p>
 
 ---
 
-## 📫 Contato
+## 📬 Contact me
 
 <p align="center">
-  <a href="mailto:lucianoborges04L@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="lucianoborges04@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/luciano-borges-077b122b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ I've worked with
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
-
----
-
-## 🚀 Em aprendizado
-
-- Boas práticas de desenvolvimento
-- Clean Code
-- APIs REST
-- Git e GitHub
