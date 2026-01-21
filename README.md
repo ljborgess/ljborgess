@@ -1,75 +1,75 @@
+<h1 align="center">👋 Olá, eu sou o Luciano Borges</h1>
 
- 
-
-<h1 align="center">Luciano Borges A.A Junqueira</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💻%20Analista%20e%20Desenvolvedor%20de%20Software-0A66C2?style=for-the-badge" />
-</p>
+<h3 align="center">Analista e Desenvolvedor de Software</h3>
 
 <p align="center">
-  <i>
-    Construindo soluções com código limpo, foco em fundamentos e evolução constante.
-  </i>
+  🚀 Iniciando minha carreira como desenvolvedor <br/>
+  📚 Sempre aprendendo e evoluindo <br/>
+  💻 Focado em qualidade, análise e boas práticas
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Graduando em **Sistemas de Informação** pela **FEPI** (nota máxima na avaliação do MEC).  
-Atualmente focado em **desenvolvimento de software**, APIs e criação de interfaces funcionais.
+Sou **Analista e Desenvolvedor de Software**
 
-Gosto de entender **como as coisas funcionam por baixo do capô**, porque tecnologia muda — fundamentos não.
+Tenho experiência com desenvolvimento web, APIs e criação de sites utilizando WordPress e Elementor, sempre buscando evoluir tecnicamente e profissionalmente.
 
 ---
 
-## 🛠️ I've worked with
+## 🛠️ Tecnologias que já trabalhei
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" />
-</p>
-
-<p align="center">
-  <b>Java • APIs REST • Front-end • WordPress + Elementor</b>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
 ---
 
-## ⚙️ O que eu curto construir
-
-- APIs bem estruturadas e fáceis de manter  
-- Interfaces simples, funcionais e responsivas  
-- Sites institucionais e projetos com WordPress  
-- Código organizado pensando em evolução futura  
-
----
-
-## 📈 Em constante evolução
-
-Atualmente estudando e praticando:
-- Arquitetura de APIs
-- Boas práticas de código
-- Versionamento com Git
-- Desenvolvimento profissional como dev
-
----
-
-## 📬 Vamos conversar?
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="lluborges004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucianoborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoborges&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 💼 O que eu faço hoje
+
+- Análise de sistemas e fluxos
+- Validação de projetos antes da entrega
+- Desenvolvimento web
+- Criação e manutenção de sites em WordPress + Elementor
+- Integrações via API
+- Documentação técnica e funcional
+
+---
+
+## 📌 Objetivos
+
+- Crescer como desenvolvedor e analista
+- Aprender boas práticas de arquitetura e código
+- Evoluir em backend e integrações
+- Contribuir em projetos reais e desafiadores
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucianojunqueira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/lucianojunqueira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
+---
+
 <p align="center">
-  <i>Aberto a aprender, colaborar e crescer na área de tecnologia.</i>
+  💡 “Entender bem o problema é o primeiro passo para criar boas soluções.”
 </p>
