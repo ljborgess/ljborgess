@@ -12,8 +12,6 @@
 
 ## 🧠 Sobre mim
 
-Sou **Analista e Desenvolvedor de Software**
-
 Tenho experiência com desenvolvimento web, APIs e criação de sites utilizando WordPress e Elementor, sempre buscando evoluir tecnicamente e profissionalmente.
 
 ---
