@@ -31,11 +31,10 @@ Tenho experiência com desenvolvimento web, APIs e criação de sites utilizando
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ljborgess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljborgess&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
->
+![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=ljborgess&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljborgess&layout=compact&theme=tokyonight)
+
 
 ---
 
