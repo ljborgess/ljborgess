@@ -53,7 +53,7 @@ Meu objetivo é evoluir para atuar diretamente como desenvolvedor backend em pro
 
 Repositório principal de evolução prática:
 
-👉 https://github.com/ljborgess/javascript-study
+👉 https://github.com/ljborgess/javascript-study.js
 
 O que você vai encontrar:
 
