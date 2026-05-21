@@ -31,7 +31,9 @@ Meu objetivo é evoluir para atuar diretamente como desenvolvedor backend em pro
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Arquitetura-222222?style=for-the-badge" />
 </p>
@@ -72,7 +74,10 @@ O que você vai encontrar:
 - Desenvolvimento web  
 - Criação e manutenção de sites WordPress  
 - Integrações com APIs  
-- Documentação funcional e técnica  
+- Documentação funcional e técnica
+- TypeScript/JavaScript
+- Nest
+- Node  
 
 ---
 
