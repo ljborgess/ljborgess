@@ -1,106 +1,73 @@
-<h1 align="center">Luciano Borges</h1>
+<div align="center">
 
-<h3 align="center">
-Analista de Sistemas • Desenvolvedor Web • Backend em evolução
-</h3>
+██╗     ██╗   ██╗ ██████╗██╗ █████╗ ███╗   ██╗ ██████╗
+██║     ██║   ██║██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗
+██║     ██║   ██║██║     ██║███████║██╔██╗ ██║██║   ██║
+██║     ██║   ██║██║     ██║██╔══██║██║╚██╗██║██║   ██║
+███████╗╚██████╔╝╚██████╗██║██║  ██║██║ ╚████║╚██████╔╝
+╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
 
-<p align="center">
-Construindo soluções com JavaScript, Node.js e boas práticas de arquitetura.<br/>
-Focado em crescimento técnico contínuo e projetos reais.
-</p>
 
----
 
-## 🚀 Sobre mim
+# Luciano Borges
 
-Sou Analista de Sistemas com atuação em desenvolvimento web e foco em backend.
+**Analista de Sistemas · Desenvolvedor Web · Backend Engineer**
 
-Tenho construído projetos práticos diariamente para fortalecer:
+Construindo sistemas reais com foco em arquitetura, escalabilidade e código que dura.
 
-- lógica de programação  
-- arquitetura de software  
-- APIs e integrações  
-- boas práticas de código  
-- organização e documentação técnica  
-
-Meu objetivo é evoluir para atuar diretamente como desenvolvedor backend em projetos reais e escaláveis.
+</div>
 
 ---
 
-## 🧠 Stack principal
+## Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arquitetura-222222?style=for-the-badge" />
-</p>
+```typescript
+const stack = {
+  languages  : ['TypeScript', 'JavaScript'],
+  backend    : ['Node.js', 'NestJS', 'REST APIs'],
+  frontend   : ['Next.js', 'React', 'TailwindCSS'],
+  database   : ['PostgreSQL', 'MikroORM'],
+  infra      : ['Docker', 'Turborepo', 'pnpm Workspaces'],
+  deploy     : ['Vercel', 'Render', 'Supabase'],
+  evolving   : ['Arquitetura de Software', 'DDD', 'Clean Code'],
+}
+Projetos
+SuperPão — Sistema de gestão para padarias
 
-### Complementares
+Monorepo completo com NestJS + Next.js 15 + PostgreSQL.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-</p>
+Módulos: estoque, produção, compras, clientes, fornecedores, auditoria, dashboard.
 
----
-
+Deploy: Vercel + Render + Supabase.
 
 
-## 🧪 Projetos e estudos
+apps/api    → NestJS 11, MikroORM, JWT, Swagger
+apps/web    → Next.js 15, React 19, TanStack Query, Shadcn/UI
+packages/   → database, shared-types, shared-utils, ui
+→ github.com/ljborgess/SaaSuperPao
 
-Repositório principal de evolução prática:
+javascript-study.js — Repositório de evolução técnica
 
-👉 https://github.com/ljborgess/javascript-study.js
+Exercícios de lógica, CRUDs, APIs, manipulação de dados e prática diária de backend.
 
-O que você vai encontrar:
+→ github.com/ljborgess/javascript-study.js
 
-- exercícios de lógica  
-- CRUDs com Node.js  
-- manipulação de arquivos e JSON  
-- estruturação de APIs  
-- prática constante de backend  
+Atuação
 
----
+Análise de sistemas e fluxos de negócio
+Desenvolvimento de APIs e integrações
+Arquitetura de software em monorepos
+Documentação técnica e funcional
+Desenvolvimento web fullstack
+Foco atual
 
-## 💼 Atuação profissional
+[ ] Engenharia de Software em produção
+[ ] Projetos escaláveis com TypeScript
+[ ] Boas práticas: SOLID, Clean Architecture
+[ ] Contribuição em times de desenvolvimento
+<div align="center">
+[Image]
+[Image]
 
-- Análise de sistemas e fluxos de negócio  
-- Validação técnica antes da entrega  
-- Desenvolvimento web  
-- Criação e manutenção de sites WordPress  
-- Integrações com APIs  
-- Documentação funcional e técnica
-- TypeScript/JavaScript
-- Nest
-- Node  
-
----
-
-## 🎯 Objetivos
-
-- Tornar-me desenvolvedor backend profissional  
-- Trabalhar em projetos escaláveis  
-- Fortalecer arquitetura e boas práticas  
-- Contribuir tecnicamente em times de desenvolvimento  
-- Evolução contínua como engenheiro de software  
-
----
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucianojunqueira/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Construindo uma versão melhor de mim todos os dias através da tecnologia."</i>
-</p>
+</div>
+<div align="center"> <sub>Construindo software que resolve problemas reais.</sub> </div> ```
