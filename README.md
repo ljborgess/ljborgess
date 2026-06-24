@@ -1,73 +1,80 @@
 <div align="center">
 
-██╗     ██╗   ██╗ ██████╗██╗ █████╗ ███╗   ██╗ ██████╗
-██║     ██║   ██║██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗
-██║     ██║   ██║██║     ██║███████║██╔██╗ ██║██║   ██║
-██║     ██║   ██║██║     ██║██╔══██║██║╚██╗██║██║   ██║
-███████╗╚██████╔╝╚██████╗██║██║  ██║██║ ╚████║╚██████╔╝
-╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
-
-
-
 # Luciano Borges
 
-**Analista de Sistemas · Desenvolvedor Web · Backend Engineer**
+**Analista de Sistemas · Backend Engineer · Fullstack Developer**
 
-Construindo sistemas reais com foco em arquitetura, escalabilidade e código que dura.
+Construindo sistemas reais com TypeScript, Node.js e arquitetura moderna.<br/>
+Focado em evoluir como engenheiro de software em projetos escaláveis.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianojunqueira/)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ljborgess)
 
 </div>
 
 ---
 
-## Stack
+## Tech Stack
 
-```typescript
-const stack = {
-  languages  : ['TypeScript', 'JavaScript'],
-  backend    : ['Node.js', 'NestJS', 'REST APIs'],
-  frontend   : ['Next.js', 'React', 'TailwindCSS'],
-  database   : ['PostgreSQL', 'MikroORM'],
-  infra      : ['Docker', 'Turborepo', 'pnpm Workspaces'],
-  deploy     : ['Vercel', 'Render', 'Supabase'],
-  evolving   : ['Arquitetura de Software', 'DDD', 'Clean Code'],
-}
-Projetos
-SuperPão — Sistema de gestão para padarias
+**Backend**
 
-Monorepo completo com NestJS + Next.js 15 + PostgreSQL.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-Módulos: estoque, produção, compras, clientes, fornecedores, auditoria, dashboard.
+**Frontend**
 
-Deploy: Vercel + Render + Supabase.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+**Database & Infra**
 
-apps/api    → NestJS 11, MikroORM, JWT, Swagger
-apps/web    → Next.js 15, React 19, TanStack Query, Shadcn/UI
-packages/   → database, shared-types, shared-utils, ui
-→ github.com/ljborgess/SaaSuperPao
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
-javascript-study.js — Repositório de evolução técnica
+**Deploy**
 
-Exercícios de lógica, CRUDs, APIs, manipulação de dados e prática diária de backend.
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
-→ github.com/ljborgess/javascript-study.js
+---
 
-Atuação
+## GitHub Stats
 
-Análise de sistemas e fluxos de negócio
-Desenvolvimento de APIs e integrações
-Arquitetura de software em monorepos
-Documentação técnica e funcional
-Desenvolvimento web fullstack
-Foco atual
-
-[ ] Engenharia de Software em produção
-[ ] Projetos escaláveis com TypeScript
-[ ] Boas práticas: SOLID, Clean Architecture
-[ ] Contribuição em times de desenvolvimento
 <div align="center">
-[Image]
-[Image]
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ljborgess&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljborgess&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
 
 </div>
-<div align="center"> <sub>Construindo software que resolve problemas reais.</sub> </div> ```
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=ljborgess&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## Projeto em destaque
+
+**SuperPão** — Sistema de gestão para padarias
+
+> Monorepo NestJS + Next.js 15 + PostgreSQL com módulos de estoque, produção, compras, auditoria e dashboard. Deploy completo em Vercel + Render + Supabase.
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+→ [Ver repositório](https://github.com/ljborgess/SaaSuperPao)
+
+---
+
+<div align="center">
+<sub>Construindo software que resolve problemas reais.</sub>
+</div>
