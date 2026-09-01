@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianojunqueira/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ljborgess)
 [![Email](https://img.shields.io/badge/Email-1a2332?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:lucianoborges04@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-1a2332?style=for-the-badge&logo=whatsapp&logoColor=58A6FF)](https://wa.me/5535998151783)
 
 </div>
 
@@ -70,6 +69,7 @@ const luciano = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![MikroORM](https://img.shields.io/badge/MikroORM-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Infra & DevOps**
 
