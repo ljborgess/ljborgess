@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianojunqueira/)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ljborgess)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ljborges)
 [![Email](https://img.shields.io/badge/Email-1a2332?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:lucianoborges04@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-1a2332?style=for-the-badge&logo=whatsapp&logoColor=58A6FF)](https://wa.me/5535998151783)
 
@@ -38,7 +38,7 @@ const luciano = {
 
 ### `> stats.json`
 
-<img src="https://github-readme-stats-eight-flax.vercel.app/api?username=ljborgess&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api?username=ljborges&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" width="100%"/>
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ SaaS boilerplate de gestão para padarias — estoque, produção, compras e con
 
 `NestJS` `MikroORM` `PostgreSQL` `JWT + RBAC` `Next.js` `TanStack Query` `Zod` `Docker` `Turborepo`
 
-📦 [superpao.vercel.app](https://superpao.vercel.app) · [Repositório](https://github.com/ljborgess/SaaSuperPao)
+📦 [superpao.vercel.app](https://superpao.vercel.app) · [Repositório](https://github.com/ljborges/SaaSuperPao)
 
 </td>
 <td width="50%" valign="top">
@@ -132,7 +132,7 @@ SaaS boilerplate de gestão para padarias — estoque, produção, compras e con
 
 `Claude Code` `Kiro IDE` `Automation` `CI/CD`
 
-📦 [Repositório](https://github.com/ljborgess)
+📦 [Repositório](https://github.com/ljborges)
 
 </td>
 </tr>
@@ -142,10 +142,10 @@ SaaS boilerplate de gestão para padarias — estoque, produção, compras e con
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=ljborgess&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ljborgess&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=ljborges&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ljborges&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljborgess&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljborges&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
