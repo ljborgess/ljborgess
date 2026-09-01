@@ -38,7 +38,7 @@ const luciano = {
 
 ### `> stats.json`
 
-<img src="https://github-readme-stats.vercel.app/api?username=ljborgess&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api?username=ljborgess&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" width="100%"/>
 
 </td>
 </tr>
@@ -142,7 +142,7 @@ SaaS boilerplate de gestão para padarias — estoque, produção, compras e con
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljborgess&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="165"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=ljborgess&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ljborgess&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljborgess&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
