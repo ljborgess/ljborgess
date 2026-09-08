@@ -1,14 +1,20 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=220&section=header&text=Luciano%20Borges&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Fullstack%20%7C%20Systems%20Analyst&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0b3d,50:2d1b69,75:1a0b3d,100:0d0221&height=240&section=header&text=LUCIANO%20BORGES&fontSize=48&fontColor=00fff2&animation=twinkling&fontAlignY=35&desc=%3C%20Backend%20%2F%2F%20Fullstack%20%2F%2F%20Systems%20%3E&descAlignY=55&descSize=16&descColor=ff00ea" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas+%40+B2ML;Backend+Developer+%7C+TypeScript+%2F+Node.js;Construindo+sistemas+distribu%C3%ADdos;Sempre+aprendendo%2C+sempre+shippando" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+system.boot()...;%3E+Analista+de+Sistemas+%40+B2ML;%3E+Backend+%7C+TypeScript+%2F+Node.js;%3E+Construindo+sistemas+distribu%C3%ADdos;%3E+status%3A+online_" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianojunqueira/)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ljborgess)
-[![Email](https://img.shields.io/badge/Email-1a2332?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:lucianoborges04@hotmail.com)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d0221)
+![Build](https://img.shields.io/badge/BUILD-SHIPPING-ff00ea?style=for-the-badge&labelColor=0d0221)
+![Uptime](https://img.shields.io/badge/UPTIME-24%2F7-8b5cf6?style=for-the-badge&labelColor=0d0221)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://www.linkedin.com/in/lucianojunqueira/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=ff00ea)](https://github.com/ljborgess)
+[![Email](https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:lucianoborges04@hotmail.com)
 
 </div>
 
@@ -18,7 +24,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### `> whoami`
+### `⟩ whoami --verbose`
 
 ```ts
 const luciano = {
@@ -28,16 +34,16 @@ const luciano = {
   education: "Sistemas de Informação — 6º semestre",
   focus: ["Backend", "Arquitetura", "Segurança", "IA aplicada"],
   languages: ["Português", "English"],
-  currentlyBuilding: "Plataforma B2ML — monólito modular"
+  currentlyBuilding: "Plataforma B2ML — monólito modular",
+  mode: "🟢 online"
 };
-```
 
 </td>
 <td width="40%" valign="top">
 
-### `> stats.json`
+⟩ stats.render()
 
-<img src="https://github-readme-stats-eight-flax.vercel.app/api?username=ljborgess&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api?username=ljborgess&show_icons=true&theme=tokyonight&bg_color=0d0221&title_color=00fff2&icon_color=ff00ea&text_color=c9d1d9&border_color=8b5cf6&count_private=true&hide_border=false" width="100%"/>
 
 </td>
 </tr>
@@ -45,52 +51,51 @@ const luciano = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## `⚡ Tech Stack`
+⚡ Tech Stack
 
 <div align="center">
 
-**Linguagens & Frontend**
+Linguagens & Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+HTML5 (https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=ff6b35)
+CSS3 (https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=00fff2)
+JavaScript (https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+TypeScript (https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge&logo=typescript&logoColor=3178c6)
+Next.js (https://img.shields.io/badge/Next.js-0d0221?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+React (https://img.shields.io/badge/Rea
+Backend
 
-**Backend**
+Node.js (https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+NestJS (https://img.shields.io/badge/NestJS-0d0221?style=for-the-badge&logo=nestjs&logoColor=e0234e)
+JWT (https://img.shields.io/badge/JWT-0d0221?style=for-the-badge&logo=jsonwebtokens&logoColor=8b5cf6)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+Dados & ORM
 
-**Dados & ORM**
+PostgreSQL (https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=4169e1)
+MySQL (https://img.shields.io/badge/MySQL-0d0221?style=for-the-badge&logo=mysql&logoColor=4479a1)
+Drizzle (https://img.shields.io/badge/Drizzle_ORM-0d0221?style=for-the-badge&logo=drizzle&logoColor=c5f74f)
+MikroORM (https://img.shields.io/badge/MikroORM-0d0221?style=for-the-badge&logo=typescript&logoColor=3178c6)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![MikroORM](https://img.shields.io/badge/MikroORM-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Infra & DevOps
 
-**Infra & DevOps**
+Docker (https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=2496ed)
+Turborepo (https://img.shields.io/badge/Turborepo-0d0221?style=for-the-badge&logo=turborepo&logoColor=ef4444)
+Vercel (https://img.shields.io/badge/Vercel-0d0221?style=for-the-badge&logo=vercel&logoColor=ffffff)
+Render (https://img.shields.io/badge/Render-0d0221?style=for-the-badge&logo=render&logoColor=46e3b7)
+Supabase (https://img.shields.io/badge/Supabase-0d0221?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+IA & Automação
 
-**IA & Automação**
+Claude (https://img.shields.io/badge/Claude_Code-0d0221?style=for-the-badge&logo=anthropic&logoColor=d97757)
+Prompt Engineering (https://img.shields.io/badge/Prompt_Engineering-0d0221?style=for-the-badge&logo=openai&logoColor=00fff2)
 
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1a2332?style=for-the-badge&logo=openai&logoColor=58A6FF)
-
-`Microsserviços` · `Sistemas Distribuídos` · `RBAC` · `Audit Logging` · `Testes Unitários` · `Multi-tenant`
+Microsserviços · Sistemas Distribuídos · RBAC · Audit Logging · Testes Unitários · Multi-tenant
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## `🚀 Experiência`
+🚀 Experiência
 
 <table>
 <tr>
@@ -111,28 +116,38 @@ Re-arquitetura da Timer API em <b>Plataforma B2ML</b>, monólito modular (timer 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## `💡 Projetos`
+💡 Projetos
+
+🏆 Em destaque — SuperPão
+
+SaaS boilerplate completo de gestão para padarias — estoque, produção, compras, controle de produtos. Monorepo real: RBAC + JWT, isolamento por tenant, ORM tipado, containerizado.
+
+NestJS MikroORM PostgreSQL JWT + RBAC Next.js TanStack Query Zod Docker Turborepo
+
+📦 superpao.vercel.app · Repositório
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥖 SuperPão
-SaaS boilerplate de gestão para padarias — estoque, produção, compras e controle de produtos, arquitetado como monorepo.
+🤖 AI Agent & Skills System
 
-`NestJS` `MikroORM` `PostgreSQL` `JWT + RBAC` `Next.js` `TanStack Query` `Zod` `Docker` `Turborepo`
+19 agentes de IA especializados + 21 skills/comandos para Claude Code e Kiro IDE — planejamento, code review, debugging, auditoria de segurança e DevOps, com hooks de automação e gates de qualidade.
 
-📦 [superpao.vercel.app](https://superpao.vercel.app) · [Repositório](https://github.com/ljborgess/SaaSuperPao)
+Claude Code Kiro IDE Automation CI/CD
+
+📦 Repositório
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Agent & Skills System
-19 agentes de IA especializados + 21 skills/comandos para Claude Code e Kiro IDE — planejamento, code review, debugging, auditoria de segurança e DevOps, com hooks de automação e gates de qualidade.
+🎨 Portfólio pessoal
 
-`Claude Code` `Kiro IDE` `Automation` `CI/CD`
+Site Next.js com animações GSAP/ScrollTrigger, deploy Vercel, busca de pinned repos via GitHub GraphQL, CI de qualidade (lint/type-check/test) em toda PR.
 
-📦 [Repositório](https://github.com/ljborgess)
+Next.js TypeScript GSAP Tailwind Vercel
+
+📦 Repositório
 
 </td>
 </tr>
@@ -142,19 +157,22 @@ SaaS boilerplate de gestão para padarias — estoque, produção, compras e con
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=ljborgess&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ljborgess&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=ljborgess&layout=compact&theme=tokyonight&bg_color=0d0221&title_color=00fff2&text_color=c9d1d9&border_color=8b5cf6" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ljborgess&theme=tokyonight&background=0d0221&border=8b5cf6&ring=00fff2&fire=ff00ea&currStreakLabel=00fff2" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljborgess&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-## `🎓 Formação & Certificações`
-
-**Sistemas de Informação** — Cursando (6º semestre)
-
-`Introduction to Agent Skills — Anthropic` · `TypeScript: Building an API with Type Safety — Alura` · `Prompt Engineering — Alura` · `Artificial Intelligence — Alura` · `Computational Thinking — Alura` · `Introduction to JavaScript — Udemy`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljborgess&theme=tokyo-night&bg_color=0d0221&color=00fff2&line=ff00ea&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
+
+🎓 Formação & Certificações
+
+Sistemas de Informação — Cursando (6º semestre)
+
+Introduction to Agent Skills — Anthropic · TypeScript: Building an API with Type Safety — Alura · Prompt Engineering — Alura · Artificial Intelligence — Alura · Computational Thinking — Alura · Introduction to JavaScript — Udemy
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0b3d,50:2d1b69,75:1a0b3d,100:0d0221&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+```
+
+
