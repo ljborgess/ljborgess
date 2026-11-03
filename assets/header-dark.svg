@@ -4,15 +4,27 @@
     .pulse { animation: pulse 2.4s ease-in-out infinite; }
     @keyframes flow { to { stroke-dashoffset: -24; } }
     @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
-    @media (prefers-reduced-motion: reduce) { .flow, .pulse { animation: none; } }
+    /* O nome se escreve no traço e depois preenche; o resto entra em seguida. Roda uma vez por carga. */
+    .name { fill: transparent; stroke: #e6edf3; stroke-width: 1; stroke-dasharray: 160; stroke-dashoffset: 160;
+      animation: draw 1.9s cubic-bezier(.6,0,.3,1) forwards, ink .7s ease 1.5s forwards; }
+    .rise { opacity: 0; animation: rise .7s ease forwards; }
+    .bar { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow .9s cubic-bezier(.2,.8,.2,1) 2.1s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes ink { to { fill: #e6edf3; stroke-width: 0; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) {
+      .flow, .pulse, .name, .rise, .bar { animation: none; }
+      .name { fill: #e6edf3; stroke: none; } .rise { opacity: 1; } .bar { transform: none; }
+    }
   </style>
-  <text x="0" y="78" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.2" fill="#e6edf3">Luciano Borges</text>
-  <text x="2" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e">Backend · Arquitetura · Segurança</text>
-  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b949e">
+  <text x="0" y="78" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.2" class="name">Luciano Borges</text>
+  <text class="rise" style="animation-delay:1.7s" x="2" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e">Backend · Arquitetura · Segurança</text>
+  <g class="rise" style="animation-delay:1.9s" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b949e">
     <circle class="pulse" cx="7" cy="150" r="4" fill="#2dd4bf"/>
     <text x="20" y="154">Analista de Sistemas @ B2ML</text>
   </g>
-  <rect x="0" y="186" width="56" height="3" rx="1.5" fill="#2dd4bf"/>
+  <rect class="bar" x="0" y="186" width="56" height="3" rx="1.5" fill="#2dd4bf"/>
   <g transform="translate(66 0)"><g fill="none" stroke-width="1.5">
     <path d="M622 64 H650" stroke="#30363d"/>
     <path class="flow" d="M622 64 H650" stroke="#2dd4bf"/>
