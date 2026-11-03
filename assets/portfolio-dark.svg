@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 144" width="410" height="144" role="img" aria-label="Portfólio: Next.js com animações em GSAP.">
+  <rect x=".75" y=".75" width="408.5" height="142.5" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="24" y="24" width="8" height="8" rx="2" fill="#2dd4bf"/>
+  <text x="40" y="33" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="1" fill="#8b949e">FRONT-END</text>
+  <text x="386" y="33" text-anchor="end" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">↗</text>
+  <text x="24" y="58" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="-.4" fill="#e6edf3">Portfólio</text>
+  <text x="24" y="78" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e">Next.js com animações em GSAP.</text>
+  <g transform="translate(24 100)"><rect width="65" height="22" rx="11" fill="none" stroke="#30363d"/><text x="32.5" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#8b949e">Next.js</text></g><g transform="translate(95 100)"><rect width="44" height="22" rx="11" fill="none" stroke="#30363d"/><text x="22" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#8b949e">GSAP</text></g><g transform="translate(145 100)"><rect width="72" height="22" rx="11" fill="none" stroke="#30363d"/><text x="36" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#8b949e">Tailwind</text></g>
+</svg>
